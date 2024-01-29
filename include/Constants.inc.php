@@ -9,7 +9,7 @@
     define("_LIB","include/");
     
     define("_API_URL","https://example.com/api/coach/");
-    define("_APIKEY","j3iFn3k2jfj429iFJSk");
+    define("_APIKEY","3453456fgdfgjhgjytuty");
     
     
     define("_LOGIN_FAILED","The user name or password provided is incorrect.");
