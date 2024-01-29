@@ -8,7 +8,7 @@
     define("_LANG","en"); 
     define("_LIB","include/");
     
-    define("_API_URL","https://gorcis.com/api/coach/");
+    define("_API_URL","https://example.com/api/coach/");
     define("_APIKEY","j3iFn3k2jfj429iFJSk");
     
     
